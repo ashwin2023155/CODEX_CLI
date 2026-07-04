@@ -1,6 +1,6 @@
-# Codex CLI
+# FORGE CLI
 
-**Codex CLI** is an intelligent, terminal-based AI pair programmer designed to streamline the software development lifecycle. Powered by **Google Gemini 2.0 Flash**, it employs a multi-agent architecture to help developers efficiently plan, architect, and review code changes directly from the command line.
+**FORGE CLI** is an intelligent, terminal-based AI pair programmer designed to streamline the software development lifecycle. Powered by **Google Gemini 2.0 Flash**, it employs a multi-agent architecture to help developers efficiently plan, architect, and review code changes directly from the command line.
 
 ## 🚀 Features
 
